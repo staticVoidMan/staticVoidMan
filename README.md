@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hi, I'm Amin 👋
 
-<!--
-**staticVoidMan/staticVoidMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Team Lead & iOS App Developer with 8 years of experience with Swift & Objective-C.
+I've prototyped many 1.0 apps for multiple companies, getting them to their next round of funding, & taken them further beyond to their 2.0 release. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on all things Apple – iOS, watchOS, Flutter
+- 🌱 Learning anything I can get my hands on!
+- 👯 Always looking to collaborate
+- 💬 Ask me about all things iOS
+- 📫 Let's connect – [LinkedIn](https://www.linkedin.com/in/aminsiddiqui)
+- 🧐 Check my flair – [Stackoverflow](https://stackoverflow.com/users/2857130/staticvoidman) | [Udemy](https://www.udemy.com/user/amin-siddiqui) | [Codewars](https://www.codewars.com/users/staticVoidMan) | [Leetcode](https://leetcode.com/aminSiddiqui)
+- ⚡ [How about e-mail?](mailto:amin.siddiqui.work@gmail.com)
