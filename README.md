@@ -1,6 +1,6 @@
 # Hi, I'm Amin 👋[<img align="right" alt="@leetcode" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode][<img align="right" alt="@codewars" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />][codewars][<img align="right" alt="@udemy" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/udemy.svg" />][udemy][<img align="right" alt="@stackoverflow" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow][<img align="right" alt="@gmail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail][<img align="right" alt="@linkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-Team Lead & iOS App Developer with 8 years of experience with Swift & Objective-C.  
+Team Lead & iOS App Developer with 9 years of experience with Swift & Objective-C.  
 I've prototyped many 1.0 apps for multiple companies, getting them to their next round of funding, & taken them further beyond to their 2.0 release. 
 
 - 💻 Currently working on all things Apple – iOS, watchOS
